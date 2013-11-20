@@ -1,10 +1,11 @@
 # rekvur
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to calculate roots of quadratic equation.
 
 ## Usage
 
-FIXME
+just run - input values are hardcoded.
+That's just my training sample
 
 ## License
 
